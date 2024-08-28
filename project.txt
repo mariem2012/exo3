@@ -1,6 +1,7 @@
-Étapes du projet:
-1. Initialiser le dépôt Git
-2. Créer une branche pour le développement
-3. Ajouter des fichiers au projet
-4. Valider les changements
-5. Fusionner la branche de développement
+Étape 1 : Analyse des besoins
+Étape 2 : Conception du projet
+Étape 3 : Développement
+Étape 4 : Tests fonctionnels
+Étape 5 : Documentation
+Étape 6 : Déploiement
+

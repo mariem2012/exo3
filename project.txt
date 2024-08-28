@@ -1,8 +1,4 @@
 Étapes du projet:
-1. Analyse des besoins
-2. Tests unitaires
-3.  Tests d'intégration
-4. Déploiement
 Étape 1 : Analyse des besoins
 Étape 2 : Conception du projet
 Étape 3 : Développement
